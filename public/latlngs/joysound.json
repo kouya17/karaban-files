@@ -1,0 +1,446 @@
+[
+  {
+    "name": "JOYSOUND青森新町店",
+    "group": "JOYSOUND直営店",
+    "lat": 40.82546929999999,
+    "lng": 140.7449853
+  },
+  {
+    "name": "JOYSOUND盛岡大通り店",
+    "group": "JOYSOUND直営店",
+    "lat": 39.7033053,
+    "lng": 141.1447902
+  },
+  {
+    "name": "JOYSOUND仙台一番町店",
+    "group": "JOYSOUND直営店",
+    "lat": 38.2627318,
+    "lng": 140.8715966
+  },
+  {
+    "name": "JOYSOUND山形店",
+    "group": "JOYSOUND直営店",
+    "lat": 38.24882842018655,
+    "lng": 140.3292596705522
+  },
+  {
+    "name": "JOYSOUND郡山駅前通り店",
+    "group": "JOYSOUND直営店",
+    "lat": 37.3978042,
+    "lng": 140.3857486
+  },
+  {
+    "name": "JOYSOUND新潟駅南口店",
+    "group": "JOYSOUND直営店",
+    "lat": 37.9083686,
+    "lng": 139.0637899
+  },
+  {
+    "name": "JOYSOUND長野駅前店",
+    "group": "JOYSOUND直営店",
+    "lat": 36.6442606,
+    "lng": 138.1869135
+  },
+  {
+    "name": "JOYSOUND上田店",
+    "group": "JOYSOUND直営店",
+    "lat": 36.4003017,
+    "lng": 138.2539029
+  },
+  {
+    "name": "JOYSOUND土浦店",
+    "group": "JOYSOUND直営店",
+    "lat": 36.0788249,
+    "lng": 140.2051663
+  },
+  {
+    "name": "2×3 ニカケルサン",
+    "group": "JOYSOUND直営店",
+    "lat": 35.7969947,
+    "lng": 139.5074697
+  },
+  {
+    "name": "JOYSOUND大宮東口店",
+    "group": "JOYSOUND直営店",
+    "lat": 35.9081514,
+    "lng": 139.6249781
+  },
+  {
+    "name": "JOYSOUND大宮西口店",
+    "group": "JOYSOUND直営店",
+    "lat": 35.9054855,
+    "lng": 139.6217871
+  },
+  {
+    "name": "JOYSOUND稲毛駅前店",
+    "group": "JOYSOUND直営店",
+    "lat": 35.6376991,
+    "lng": 140.0925668
+  },
+  {
+    "name": "JOYSOUND稲毛店",
+    "group": "JOYSOUND直営店",
+    "lat": 35.6380168,
+    "lng": 140.0932279
+  },
+  {
+    "name": "JOYSOUND行徳駅前店",
+    "group": "JOYSOUND直営店",
+    "lat": 35.6830354,
+    "lng": 139.9151877
+  },
+  {
+    "name": "JOYSOUND品川港南口店",
+    "group": "JOYSOUND直営店",
+    "lat": 35.6284959,
+    "lng": 139.7430489
+  },
+  {
+    "name": "JOYSOUND渋谷南口駅前店",
+    "group": "JOYSOUND直営店",
+    "lat": 35.6583443,
+    "lng": 139.6998316
+  },
+  {
+    "name": "JOYSOUND渋谷道玄坂店",
+    "group": "JOYSOUND直営店",
+    "lat": 35.6576613,
+    "lng": 139.6988554
+  },
+  {
+    "name": "JOYSOUND新宿西口店",
+    "group": "JOYSOUND直営店",
+    "lat": 35.6898295,
+    "lng": 139.6973197
+  },
+  {
+    "name": "JOYSOUND池袋西口公園前店",
+    "group": "JOYSOUND直営店",
+    "lat": 35.7296365,
+    "lng": 139.7086972
+  },
+  {
+    "name": "JOYSOUND神楽坂店",
+    "group": "JOYSOUND直営店",
+    "lat": 35.7017131,
+    "lng": 139.7390889
+  },
+  {
+    "name": "JOYSOUND京橋店",
+    "group": "JOYSOUND直営店",
+    "lat": 35.6757109,
+    "lng": 139.7680031
+  },
+  {
+    "name": "JOYSOUND上野広小路店",
+    "group": "JOYSOUND直営店",
+    "lat": 35.7080164,
+    "lng": 139.7712032
+  },
+  {
+    "name": "JOYSOUND水道橋店",
+    "group": "JOYSOUND直営店",
+    "lat": 35.701865,
+    "lng": 139.7525
+  },
+  {
+    "name": "JOYSOUND中野店",
+    "group": "JOYSOUND直営店",
+    "lat": 35.7079764,
+    "lng": 139.6653556
+  },
+  {
+    "name": "JOYSOUND八丁堀店",
+    "group": "JOYSOUND直営店",
+    "lat": 35.6750335,
+    "lng": 139.7768832
+  },
+  {
+    "name": "JOYSOUND金町店",
+    "group": "JOYSOUND直営店",
+    "lat": 35.77009,
+    "lng": 139.8710847
+  },
+  {
+    "name": "JOYSOUND小田急町田北口店",
+    "group": "JOYSOUND直営店",
+    "lat": 35.5448368,
+    "lng": 139.4451014
+  },
+  {
+    "name": "JOYSOUND秋津店",
+    "group": "JOYSOUND直営店",
+    "lat": 35.7782753,
+    "lng": 139.4951
+  },
+  {
+    "name": "JOYSOUND京王堀之内店",
+    "group": "JOYSOUND直営店",
+    "lat": 35.624046,
+    "lng": 139.400603
+  },
+  {
+    "name": "JOYSOUND立川北口店",
+    "group": "JOYSOUND直営店",
+    "lat": 35.6996624,
+    "lng": 139.4139049
+  },
+  {
+    "name": "JOYSOUND青葉台店",
+    "group": "JOYSOUND直営店",
+    "lat": 35.543205,
+    "lng": 139.515928
+  },
+  {
+    "name": "JOYSOUND上大岡駅前店",
+    "group": "JOYSOUND直営店",
+    "lat": 35.4080211,
+    "lng": 139.595588
+  },
+  {
+    "name": "JOYSOUND鶴見店",
+    "group": "JOYSOUND直営店",
+    "lat": 35.5073927,
+    "lng": 139.6785706
+  },
+  {
+    "name": "JOYSOUND溝の口店",
+    "group": "JOYSOUND直営店",
+    "lat": 35.5999543,
+    "lng": 139.6125667
+  },
+  {
+    "name": "JOYSOUND向ヶ丘遊園店",
+    "group": "JOYSOUND直営店",
+    "lat": 35.6163006,
+    "lng": 139.5656467
+  },
+  {
+    "name": "JOYSOUND横須賀中央店",
+    "group": "JOYSOUND直営店",
+    "lat": 35.2796691,
+    "lng": 139.6698284
+  },
+  {
+    "name": "JOYSOUND茅ヶ崎西インター店",
+    "group": "JOYSOUND直営店",
+    "lat": 35.3303302,
+    "lng": 139.3889345
+  },
+  {
+    "name": "JOYSOUND小田原店",
+    "group": "JOYSOUND直営店",
+    "lat": 35.2552166,
+    "lng": 139.1566307
+  },
+  {
+    "name": "JOYSOUND本厚木駅前店",
+    "group": "JOYSOUND直営店",
+    "lat": 35.4404028,
+    "lng": 139.364762
+  },
+  {
+    "name": "JOYSOUND東戸塚駅前店",
+    "group": "JOYSOUND直営店",
+    "lat": 35.4292083,
+    "lng": 139.5576563
+  },
+  {
+    "name": "ゆう遊空間あざみ野店",
+    "group": "JOYSOUND直営店",
+    "lat": 35.570652,
+    "lng": 139.5527191
+  },
+  {
+    "name": "JOYSOUND浜松鍛冶町店",
+    "group": "JOYSOUND直営店",
+    "lat": 34.7058456,
+    "lng": 137.7302378
+  },
+  {
+    "name": "JOYSOUND静岡紺屋町店",
+    "group": "JOYSOUND直営店",
+    "lat": 34.9721235,
+    "lng": 138.3845845
+  },
+  {
+    "name": "JOYSOUND沼津店",
+    "group": "JOYSOUND直営店",
+    "lat": 35.1020001,
+    "lng": 138.8600081
+  },
+  {
+    "name": "JOYSOUND伊東店",
+    "group": "JOYSOUND直営店",
+    "lat": 34.9656053,
+    "lng": 139.1024648
+  },
+  {
+    "name": "ゆう遊空間三島青木店",
+    "group": "JOYSOUND直営店",
+    "lat": 35.104954,
+    "lng": 138.921685
+  },
+  {
+    "name": "JOYSOUND名駅二丁目店",
+    "group": "JOYSOUND直営店",
+    "lat": 35.1730043,
+    "lng": 136.8832322
+  },
+  {
+    "name": "JOYSOUND名駅三丁目店",
+    "group": "JOYSOUND直営店",
+    "lat": 35.1726271,
+    "lng": 136.8839484
+  },
+  {
+    "name": "JOYSOUND名駅三丁目中央店",
+    "group": "JOYSOUND直営店",
+    "lat": 35.1728149,
+    "lng": 136.8848832
+  },
+  {
+    "name": "JOYSOUND名駅太閤口店",
+    "group": "JOYSOUND直営店",
+    "lat": 35.1700058,
+    "lng": 136.8789165
+  },
+  {
+    "name": "JOYSOUND金山店",
+    "group": "JOYSOUND直営店",
+    "lat": 35.141832,
+    "lng": 136.9007412
+  },
+  {
+    "name": "JOYSOUND萩野通店",
+    "group": "JOYSOUND直営店",
+    "lat": 35.210979,
+    "lng": 136.9104246
+  },
+  {
+    "name": "ゆう遊空間三河安城店",
+    "group": "JOYSOUND直営店",
+    "lat": 34.9651526,
+    "lng": 137.0583445
+  },
+  {
+    "name": "JOYSOUND四日市笹川通り店",
+    "group": "JOYSOUND直営店",
+    "lat": 34.9520294,
+    "lng": 136.5972457
+  },
+  {
+    "name": "JOYSOUND広島中央通り店",
+    "group": "JOYSOUND直営店",
+    "lat": 34.391752,
+    "lng": 132.463289
+  },
+  {
+    "name": "JOYSOUND徳山店",
+    "group": "JOYSOUND直営店",
+    "lat": 34.05143,
+    "lng": 131.8103092
+  },
+  {
+    "name": "JOYSOUND岩国駅前店",
+    "group": "JOYSOUND直営店",
+    "lat": 34.1694391,
+    "lng": 132.2213872
+  },
+  {
+    "name": "JOYSOUND木屋町店",
+    "group": "JOYSOUND直営店",
+    "lat": 35.0072192,
+    "lng": 135.7701792
+  },
+  {
+    "name": "JOYSOUND心斎橋店",
+    "group": "JOYSOUND直営店",
+    "lat": 34.67291040000001,
+    "lng": 135.5018279
+  },
+  {
+    "name": "JOYSOUNDなんば戎橋店",
+    "group": "JOYSOUND直営店",
+    "lat": 34.6683488,
+    "lng": 135.5014576
+  },
+  {
+    "name": "JOYSOUND天王寺アポロ店",
+    "group": "JOYSOUND直営店",
+    "lat": 34.64674280000001,
+    "lng": 135.5116636
+  },
+  {
+    "name": "JOYSOUND東三国店",
+    "group": "JOYSOUND直営店",
+    "lat": 34.7427495,
+    "lng": 135.4989167
+  },
+  {
+    "name": "JOYSOUND北花田店",
+    "group": "JOYSOUND直営店",
+    "lat": 34.5810702,
+    "lng": 135.5161656
+  },
+  {
+    "name": "JOYSOUND三ノ宮東口駅前店",
+    "group": "JOYSOUND直営店",
+    "lat": 34.6953546,
+    "lng": 135.1948111
+  },
+  {
+    "name": "JOYSOUND姫路みゆき通り店",
+    "group": "JOYSOUND直営店",
+    "lat": 34.8284697,
+    "lng": 134.6916407
+  },
+  {
+    "name": "JOYSOUND松山大街道一番町店",
+    "group": "JOYSOUND直営店",
+    "lat": 33.8404026,
+    "lng": 132.7699511
+  },
+  {
+    "name": "JOYSOUND松山市駅店",
+    "group": "JOYSOUND直営店",
+    "lat": 33.8362022,
+    "lng": 132.7614896
+  },
+  {
+    "name": "JOYSOUND博多口駅前店",
+    "group": "JOYSOUND直営店",
+    "lat": 33.5899578,
+    "lng": 130.4171782
+  },
+  {
+    "name": "JOYSOUND福岡日赤前店",
+    "group": "JOYSOUND直営店",
+    "lat": 33.5726405,
+    "lng": 130.4149727
+  },
+  {
+    "name": "JOYSOUND長崎観光通り店（旧長崎古川町店）",
+    "group": "JOYSOUND直営店",
+    "lat": 32.7454844,
+    "lng": 129.8798472
+  },
+  {
+    "name": "JOYSOUND大分中央通り店",
+    "group": "JOYSOUND直営店",
+    "lat": 33.237466,
+    "lng": 131.6070102
+  },
+  {
+    "name": "JOYSOUND鹿児島天文館店",
+    "group": "JOYSOUND直営店",
+    "lat": 31.5890913,
+    "lng": 130.5557371
+  },
+  {
+    "name": "JOYSOUND天文館電車通り店",
+    "group": "JOYSOUND直営店",
+    "lat": 31.5909278,
+    "lng": 130.5550962
+  }
+]
